@@ -1,7 +1,5 @@
 let bar = document.querySelector(".bar");
-
 let buttons = document.querySelectorAll(".btn")
-
 let clear = document.querySelector(".clear-btn")
 let equal = document.querySelector(".equal-btn")
 let dot = document.querySelector(".dot-btn")
